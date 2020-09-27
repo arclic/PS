@@ -1,37 +1,30 @@
 import sys
+import re
 
-inputText = sys.stdin.readlines()
+html = "".join(sys.stdin.readlines())
 
-# remove enter and split
-formedTextList = []
-
-for line in inputText:
-    if line.strip().replace("\n", "").split():
-        formedTextList += line.strip().replace("\n", "").split()
-        
+html = re.sub("[\s\n\t]+"," ", html).split(" ")
 
 printStr = ""
 
-for data in formedTextList:
-    if data == "<br>":
+for word in html:
+    if word == "<br>":
         print(printStr)
         printStr = ""
     
-    elif data == "<hr>":
-        if(printStr):
+    elif word == "<hr>":
+        if printStr:
             print(printStr)
         print("-"*80)
         printStr = ""
-        
+    
     else:
-        if len(printStr) + len(data) <= 80:
-            if len(printStr):
-                printStr += " " + data
-            else:
-                printStr = data
+        if len(printStr) + len(word) <= 80:
+            printStr += ((" " + word) if printStr else word)
+        
         else:
             print(printStr)
-            printStr = data
+            printStr = word
             
-if printStr:         
+if printStr:            
     print(printStr)
