@@ -21,3 +21,4 @@ Each of the directories is the problem number.
 ## 2. 기본 자료구조
 백준 1158번 문제 : [Source Code](1158/baekjoon.py)   
 백준 2504번 문제 : [Source Code](2504/baekjoon.py)  
+백준 2075번 문제 : [Source Code](2075/baekjoon.py)  
