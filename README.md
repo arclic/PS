@@ -30,3 +30,4 @@ Each of the directories is the problem number.
 ## 3. 완전탐색   
 백준 1065번 문제 : [Source Code](1065/baekjoon.py)   
 백준 18111번 문제 : [Source Code](18111/baekjoon.py)   
+백준 14888번 문제 : [Source Code](14888/baekjoon.py)   
