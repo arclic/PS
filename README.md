@@ -26,3 +26,6 @@ Each of the directories is the problem number.
 백준 1655번 문제 : [Source Code](1655/baekjoon.py)  
 프로그래머스 2020 카카오 블라인드 채용 1차 "괄호 변환" : [Source Code](programmers/60058/programmers.py)   
 프로그래머스 2019 카카오 블라인드 채용 1차 "무지의 먹방 라이브" : [Source Code](programmers/42891/programmers.py)   
+
+## 3. 완전탐색   
+백준 1065번 문제 : [Source Code](1065/baekjoon.py)   
