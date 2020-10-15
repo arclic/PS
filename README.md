@@ -43,3 +43,4 @@ Each of the directories is the problem number.
    
 ## 5. 그리디 알고리즘   
 백준 11399 문제 : [Source Code](11399/baekjoon.py)   
+백준 1931 문제 : [Source Code](1931/baekjoon.py)   
