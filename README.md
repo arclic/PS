@@ -45,3 +45,4 @@ Each of the directories is the problem number.
 백준 11399 문제 : [Source Code](11399/baekjoon.py)   
 백준 1931 문제 : [Source Code](1931/baekjoon.py)   
 백준 11047 문제 : [Source Code](11047/baekjoon.py)   
+백준 1339 문제 : [Source Code](1339/baekjoon.py)   
