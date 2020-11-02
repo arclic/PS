@@ -51,3 +51,4 @@ Each of the directories is the problem number.
 
 ## 6. 그래프 탐색   
 백준 1260 문제 : [Source Code](1260/baekjoon.py)   
+백준 2178 문제 : [Source Code](2178/baekjoon.py)   
