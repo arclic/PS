@@ -60,3 +60,5 @@ Each of the directories is the problem number.
 ## 7. 그래프 알고리즘   
 백준 1753 문제 : [Source Code](1753/baekjoon.py)   
 백준 14938 문제 : [Source Code](14938/baekjoon.py)   
+백준 1922 문제 : [Source Code](1922/baekjoon.py)   
+백준 11779 문제 : [Source Code](11779/baekjoon.py)   
