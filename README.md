@@ -66,3 +66,4 @@ Each of the directories is the problem number.
 ## 8. 이분탐색   
 백준 1920 문제 : [Source Code](1920/baekjoon.py)   
 백준 1654 문제 : [Source Code](1654/baekjoon.py)   
+백준 1300 문제 : [Source Code](1300/baekjoon.py)   
