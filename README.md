@@ -72,3 +72,5 @@ Each of the directories is the problem number.
 
 ## 9. Union-Find   
 백준 1717 문제 : [Source Code](1717/baekjoon.py)   
+백준 1976 문제 : [Source Code](1976/baekjoon.py)   
+백준 4195 문제 : [Source Code](4195/baekjoon.py)   
