@@ -74,3 +74,4 @@ Each of the directories is the problem number.
 백준 1717 문제 : [Source Code](1717/baekjoon.py)   
 백준 1976 문제 : [Source Code](1976/baekjoon.py)   
 백준 4195 문제 : [Source Code](4195/baekjoon.py)   
+백준 10775 문제 : [Source Code](10775/baekjoon.py)   
